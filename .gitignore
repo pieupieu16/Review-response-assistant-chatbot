@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+.env
+data/
+*.db
+*.sqlite3
+*.onnx
+*.pth
+*.pt
+__pycache__/
+.idea/
+.vscode/
