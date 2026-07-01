@@ -1,7 +1,7 @@
 # PIEUPIEU Review Care - RAG System
 
 ## Mô tả dự án 
-TADICO Review Care là một dự án nền tảng xây dựng hệ thống tự động hóa quy trình chăm sóc và phản hồi khách hàng dựa trên công nghệ tạo văn bản tăng cường tra cứu dữ liệu. Hệ thống có khả năng tự động tiếp nhận các đánh giá trực tuyến, phân tích chuyên sâu cảm xúc của người dùng (Tích cực, Tiêu cực, Trung lập), từ đó tự động biên soạn các câu trả lời nháp chuyên nghiệp, chính xác và nhất quán dựa trên tài liệu chính sách nội bộ hoặc danh mục câu hỏi thường gặp của doanh nghiệp.
+PIIEUPIEU Review Care là một dự án nền tảng xây dựng hệ thống tự động hóa quy trình chăm sóc và phản hồi khách hàng dựa trên công nghệ tạo văn bản tăng cường tra cứu dữ liệu. Hệ thống có khả năng tự động tiếp nhận các đánh giá trực tuyến, phân tích chuyên sâu cảm xúc của người dùng (Tích cực, Tiêu cực, Trung lập), từ đó tự động biên soạn các câu trả lời nháp chuyên nghiệp, chính xác và nhất quán dựa trên tài liệu chính sách nội bộ hoặc danh mục câu hỏi thường gặp của doanh nghiệp.
 
 Giải pháp này giúp các doanh nghiệp—đặc biệt là trong lĩnh vực thương mại điện tử(Quần áo)—tối ưu hóa triệt để tốc độ phản hồi, giảm thiểu áp lực vận hành cho đội ngũ nhân sự trực tổng đài, đồng thời nâng cao độ hài lòng và trải nghiệm tổng thể của khách hàng.
 ## Tính năng chính 
@@ -107,3 +107,5 @@ RAM: 16GB .
 GPU: NVIDIA GeForce RTX có VRAM khoảng 6GB (ví dụ: các dòng RTX 3050, RTX 4050). 
 
 Lưu trữ: SSD NVMe 512GB.
+
+# NOTE : Tất cả tài liệu đều là nguồn tự thu thập trên internet, không vi phạm bản quyền. Dự án này được phát triển nhằm mục đích nghiên cứu và học tập, không phục vụ mục đích thương mại.
